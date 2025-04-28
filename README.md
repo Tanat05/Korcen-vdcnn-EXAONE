@@ -1,5 +1,7 @@
 # Korcen-vdcnn-EXAONE
 
+Different models may have different structures
+
 # Example PY: 3.10 TF: 2.10
 ```py
 import pandas as pd
