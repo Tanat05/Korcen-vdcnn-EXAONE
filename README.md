@@ -1,6 +1,17 @@
-# Korcen-vdcnn-EXAONE
+<div align="center">
+  <h1>Korcen-vdcnn-EXAONE</h1>
+  <h2>a continuous challenge</h2>
+</div>
+
+![131_20220604170616](https://user-images.githubusercontent.com/85154556/171998341-9a7439c8-122f-4a9f-beb6-0e0b3aad05ed.png)
+
+I share the models that I've been making for a long time
 
 Different models may have different structures
+
+[Korcen](https://github.com/KR-korcen/korcen): original before innovation.
+
+[Korcen-kogpt2](https://github.com/Tanat05/korcen-kogpt2): First innovation and first failure
 
 # Example PY: 3.10 TF: 2.10
 ```py
